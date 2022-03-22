@@ -1,0 +1,1 @@
+# go-schools-data
